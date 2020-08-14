@@ -12,7 +12,7 @@ The work is performed on Jupyter Notebooks and following packages were used -
 - `tslearn` - To compute the DTW scores and path.
 - `scipy` - To use `cdist` for DTW path computation.
 
-
+Data - `https://drive.google.com/drive/folders/1Fw-7wc1sguI4i5_uNcl7mkUV1KcDNs6n?usp=sharing`
 
 Directory Structure -
 - `Figures/` - Contains all the figures and plots used in the paper.
