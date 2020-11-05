@@ -5,7 +5,7 @@ With the spirit of reproducible research, this repository contains all the codes
 > Saharia, Dhiraj, et al. “Precipitation Estimates from Satellite and Ground-Based Sensors.”
 
 The work is performed on Jupyter Notebooks and following packages were used -
-- `pandas` - For data preprossesing.
+- `pandas` - For data pre-processing.
 - `matplotlib`, `seaborn`- For plotting.
 - `glob` - For selecting multiple files.
 - `xarray` - To work with `netCDF` files.
